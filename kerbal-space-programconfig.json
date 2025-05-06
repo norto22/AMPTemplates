@@ -1,0 +1,19 @@
+[
+    {
+        "DisplayName": "Kerbal Space Program - Luna Multiplayer",
+        "Category": "Server Settings",
+        "Description": "The name displayed in the server browser.",
+        "Keywords": "kerbal,space,program,-,luna,multiplayer",
+        "FieldName": "serverName",
+        "InputType": "text",
+        "IsFlagArgument": false,
+        "ParamFieldName": "serverName",
+        "IncludeInCommandLine": false,
+        "DefaultValue": "LMP Server",
+        "Placeholder": "LMP Server",
+        "Suffix": "",
+        "Hidden": false,
+        "SkipIfEmpty": false,
+        "EnumValues": {}
+    }
+]

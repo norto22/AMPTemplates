@@ -1,0 +1,7 @@
+[
+    {
+        "ConfigFile": "Configs/LMPServerSettings.xml",
+        "ConfigType": "xml",
+        "AutoMap": true
+    }
+]
