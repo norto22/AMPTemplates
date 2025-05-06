@@ -2,11 +2,12 @@
     {
         "UpdateStageName": "Download LMP Server",
         "UpdateSourcePlatform": "Windows",
-        "UpdateSource": "GithubRelease",
+        "UpdateSource": "FetchURL",
         "UpdateSourceData": "LMPServer.zip",
         "UpdateSourceArgs": "LunaMultiplayer/LunaMultiplayer",
-        "UnzipUpdateSource": false,
-        "OverwriteExistingFiles": false,
+        "UpdateSourceTarget": "https://github.com/LunaMultiplayer/LunaMultiplayer/releases/download/0.29.0/LMPServer.zip",
+        "UnzipUpdateSource": true,
+        "OverwriteExistingFiles": true,
         "DeleteAfterExtract": true,
         "OneShot": false
     }

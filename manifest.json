@@ -1,10 +1,8 @@
 {
-    "id": "55748a67-9dae-44be-b426-f436b4124dd0",
-    "authors": [
-        "norto22 - Made with AMP Config Generator"
-    ],
-    "origin": "https://github.com/norto22 - Made with AMP Config Generator/AMPTemplates.git",
-    "url": "https://github.com/norto22 - Made with AMP Config Generator/AMPTemplates",
+    "id": "07a5d338-ca5c-4f33-a6e3-95ce0de32c0e",
+    "authors": ["norto22"],
+    "origin": "https://github.com/norto22/AMPTemplates.git",
+    "url": "https://github.com/norto22/AMPTemplates",
     "imagefile": "",
-    "prefix": "norto22 - Made with AMP Config Generator"
+    "prefix": ""
 }
