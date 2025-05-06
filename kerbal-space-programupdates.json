@@ -2,8 +2,8 @@
     {
         "UpdateStageName": "Download LMP Server",
         "UpdateSourcePlatform": "Windows",
-        "UpdateSource": "FetchURL",
-        "UpdateSourceData": "https://github.com/LunaMultiplayer/LunaMultiplayer/releases/download/0.29.0/LMPServer.zip",
+        "UpdateSource": "GithubRelease",
+        "UpdateSourceData": "LunaMultiplayer-Server-Release.zip",
         "UpdateSourceArgs": "LunaMultiplayer/LunaMultiplayer",
         "UpdateSourceTarget": "LMPServer.zip",
         "UnzipUpdateSource": true,
