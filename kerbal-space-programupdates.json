@@ -1,14 +1,12 @@
 [
     {
-        "UpdateStageName": "Download LMP Server",
-        "UpdateSourcePlatform": "Windows",
-        "UpdateSource": "GithubRelease",
-        "UpdateSourceData": "LunaMultiplayer-Server-Release.zip",
-        "UpdateSourceArgs": "LunaMultiplayer/LunaMultiplayer",
-        "UpdateSourceTarget": "LMPServer.zip",
-        "UnzipUpdateSource": true,
-        "OverwriteExistingFiles": true,
-        "DeleteAfterExtract": true,
-        "OneShot": false
+      "UpdateStageName": "Download LMP Server",
+      "UpdateSourcePlatform": "Windows",
+      "UpdateSource": "FetchURL",
+      "UpdateSourceData": "https://github.com/LunaMultiplayer/LunaMultiplayer/releases/download/0.29.0/LunaMultiplayer-Server-Release.zip",
+      "UnzipUpdateSource": true,
+      "OverwriteExistingFiles": true,
+      "DeleteAfterExtract": true
     }
-]
+  ]
+  
