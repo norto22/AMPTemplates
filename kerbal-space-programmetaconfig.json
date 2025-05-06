@@ -1,6 +1,41 @@
 [
     {
-        "ConfigFile": "Configs/LMPServerSettings.xml",
+        "ConfigFile": "Config/DedicatedServerSettings",
+        "ConfigType": "xml",
+        "AutoMap": true
+    },
+    {
+        "ConfigFile": "Config/ConnectionSettings",
+        "ConfigType": "xml",
+        "AutoMap": true
+    },
+    {
+        "ConfigFile": "Config/CraftSettings",
+        "ConfigType": "xml",
+        "AutoMap": true
+    },
+    {
+        "ConfigFile": "Config/GameplaySettings",
+        "ConfigType": "xml",
+        "AutoMap": true
+    },
+    {
+        "ConfigFile": "Config/GeneralSettings",
+        "ConfigType": "xml",
+        "AutoMap": true
+    },
+    {
+        "ConfigFile": "Config/IntervalSettings",
+        "ConfigType": "xml",
+        "AutoMap": true
+    },
+    {
+        "ConfigFile": "Config/MasterServerSettings",
+        "ConfigType": "xml",
+        "AutoMap": true
+    },
+    {
+        "ConfigFile": "Config/WarpSettings",
         "ConfigType": "xml",
         "AutoMap": true
     }
